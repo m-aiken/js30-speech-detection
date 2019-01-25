@@ -1,0 +1,1 @@
+Speech Detection app/exercise from Wes Bos JavaScript 30 site.
